@@ -1,4 +1,5 @@
 {
+  "homepage":"https://ismailertuglu14.github.io/portfolio",
   "name": "@arifszn/gitprofile",
   "description": "Create an automatic portfolio based on GitHub profile",
   "version": "2.6.0",
